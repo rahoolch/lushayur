@@ -157,7 +157,7 @@ const LAWebsite = () => {
       <footer className="bg-stone-900 text-white py-12">
         <div className="max-w-7xl mx-auto px-4 grid md:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-xl font-serif mb-4">LA</h3>
+            <h3 className="text-xl font-serif mb-4">Lush Ayurveda</h3>
             <p className="text-stone-400">Ancient wisdom for modern wellness</p>
           </div>
           <div>
@@ -171,9 +171,9 @@ const LAWebsite = () => {
           <div>
             <h4 className="text-lg mb-4">Contact</h4>
             <ul className="space-y-2 text-stone-400">
-              <li>123 Wellness Way</li>
-              <li>Los Angeles, CA 90001</li>
-              <li>contact@laayurveda.com</li>
+              <li>Lush Ayurveda Punchkarma & Holistic Healing Centre</li>
+              <li>BR-11, Sec-116, Noida, UP</li>
+              <li>lushayurveda@gmail.com</li>
             </ul>
           </div>
           <div>

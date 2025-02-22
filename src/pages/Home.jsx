@@ -50,7 +50,7 @@ const Home = () => {
       <section className="relative h-screen">
         <div className="absolute inset-0">
           <img
-            src="/api/placeholder/1920/1080"
+            src="/images/ayurvedic-header.jpg"
             alt="Ayurvedic treatment"
             className="w-full h-full object-cover"
           />
@@ -107,9 +107,9 @@ const Home = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <img 
-                src="/api/placeholder/600/800" 
+                src="/images/dr_mariya.jpeg" 
                 alt="Dr. Mariya Parvez" 
-                className="rounded-lg shadow-md w-full h-auto max-h-96 object-cover object-center"
+                className="rounded-lg shadow-md w-full h-auto max-h-102 object-cover object-center"
               />
             </div>
             <div>
@@ -146,7 +146,7 @@ const Home = () => {
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="bg-stone-50 rounded-lg shadow-sm overflow-hidden hover:shadow-md transition-all duration-300">
               <img 
-                src="/api/placeholder/600/400" 
+                src="/images/weight_reduction.jpg" 
                 alt="Weight Reduction" 
                 className="w-full h-48 object-cover"
               />
@@ -163,7 +163,7 @@ const Home = () => {
             
             <div className="bg-stone-50 rounded-lg shadow-sm overflow-hidden hover:shadow-md transition-all duration-300">
               <img 
-                src="/api/placeholder/600/400" 
+                src="/images/hair_skin.jpg" 
                 alt="Hair & Skin Care" 
                 className="w-full h-48 object-cover"
               />
@@ -180,7 +180,7 @@ const Home = () => {
             
             <div className="bg-stone-50 rounded-lg shadow-sm overflow-hidden hover:shadow-md transition-all duration-300">
               <img 
-                src="/api/placeholder/600/400" 
+                src="/images/stress_management.jpg" 
                 alt="Stress Management" 
                 className="w-full h-48 object-cover"
               />

@@ -6,6 +6,11 @@ const Footer = () => {
     <footer className="bg-stone-900 text-white py-12">
       <div className="max-w-7xl mx-auto px-4 grid grid-cols-1 md:grid-cols-4 gap-8">
         <div>
+          <img 
+          src="/images/logo-white.png" // Consider a white version for dark footer
+          alt="Lush Ayurveda Logo" 
+          className="h-12 mb-4" // Adjust height as needed
+          />
           <h3 className="text-xl font-serif mb-4">Lush Ayurveda</h3>
           <p className="text-stone-400">Ancient wisdom for modern wellness</p>
           <div className="mt-4 text-stone-400">

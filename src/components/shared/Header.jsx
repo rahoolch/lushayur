@@ -25,7 +25,13 @@ const Header = () => {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <Link to="/" className="flex items-center">
-            <h1 className="text-2xl font-serif text-stone-800">LUSH AYURVEDA</h1>
+            {/* <h1 className="text-2xl font-serif text-stone-800">LUSH AYURVEDA</h1> */}
+            <img 
+            src="/images/logo.png" 
+            alt="Lush Ayurveda Logo" 
+            className="h-8 md:h-10 lg:h-12" // Adjust height as needed
+            />
+            <h1 className="text-2x3 font-serif text-stone-700">Lush Ayurveda</h1>
           </Link>
           
           {/* Desktop Navigation */}
